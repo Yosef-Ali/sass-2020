@@ -1,2 +1,2 @@
 # sass-2020
-sass using vscode live sass extention
+sass compiled using vscode live sass extention
